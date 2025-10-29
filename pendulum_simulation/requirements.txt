@@ -1,0 +1,7 @@
+numpy>=1.23
+matplotlib>=3.7
+pandas>=2.0
+sympy>=1.11
+scipy>=1.10
+jupyter>=1.0
+ipykernel>=6.0

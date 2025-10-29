@@ -1,5 +1,11 @@
-numpy
-matplotlib
-pandas
-sympy
-jupyter
+
+
+
+
+- fire simluation, machine learning: output removed, unnecessary files removed
+
+
+ML (sounds smart): 
+First, the data will be examined. It will be cleaned, summarized and preprocessed. 
+Afterwards, a deep neural network will be constructed, trained and tested on the data. 
+Finally, the robustness of the network will be tested using adversarial samples.
